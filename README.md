@@ -15,7 +15,7 @@
  The dataframe created from imported data,1252 rows of data:
  
  
-![dataframe_deliv1.png](Resources/dataframe_deliv1.png)
+![dataframe_deliv1.png](Images/dataframe_deliv1.png)
 
  
  
@@ -23,10 +23,9 @@
  
  
  
-![Pivot_Chart_outcomes_vs_launch.png](Resources/Pivot_Chart_outcomes_vs_launch.png)
+![df_aftercleaning_deliv1.png](Images/df_aftercleaning_deliv1.png)
 
-![Pivot_Chart_outcomes_vs_launch.png](Resources/Pivot_Chart_outcomes_vs_launch.png)
- 
+
  
  
  
