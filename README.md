@@ -18,7 +18,7 @@
  ![dataframe_deliv_1.png](Images/dataframe_deliv_1.png)
  
  
- Below image shows the result of tradable cryptocurrenciesafter cleaning the data,532 rows of data
+ Below image shows the result of tradable cryptocurrenciesafter cleaning the data,532 rows of data.
  
  
  ![df_aftercleaning_deli_1.png](Images/df_aftercleaning_deli_1.png)
