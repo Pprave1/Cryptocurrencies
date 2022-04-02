@@ -14,18 +14,20 @@
  
  The dataframe created from imported data,1252 rows of data:
  
- ![dataframe_deliv_1.png](Images/dataframe_deliv_1.png)
-
+ 
+![dataframe_deliv1.png](Resources/dataframe_deliv1.png)
 
  
  
  Below image shows the result of tradable cryptocurrenciesafter cleaning the data,532 rows of data.
  
  
- ![df_aftercleaning_deli_1.png](Images/df_aftercleaning_deli_1.png)
-
  
- ![df_aftercleaning_deli_1.png](Images/df_aftercleaning_deli_1.png)
+![Pivot_Chart_outcomes_vs_launch.png](Resources/Pivot_Chart_outcomes_vs_launch.png)
+
+![Pivot_Chart_outcomes_vs_launch.png](Resources/Pivot_Chart_outcomes_vs_launch.png)
+ 
+ 
  
  
  
