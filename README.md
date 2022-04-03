@@ -49,9 +49,10 @@
 
  #### ![Cryptos.png](Resources/Images/Cryptos.png)
  
-### Create an hvplot scatter plot with x="TotalCoinsMined", y="TotalCoinSupply", and by="Class".
+###  Visualizing Cryptocurrencies Results
+###  Create an hvplot scatter plot with x="TotalCoinsMined", y="TotalCoinSupply", and by="Class".
 
-#### ![elbowcurve_deliverable3.png](Resources/Images/elbowcurve_deliverable3.png)
+#### ![result_hvplot_scatterplot_deli_4.png](Resources/Images/result_hvplot_scatterplot_deli_4.png)
  
  
 
