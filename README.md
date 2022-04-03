@@ -1,7 +1,7 @@
 # Cryptocurrencies
 ## Overview
  ### Purpose
- The client asked requested a report that includes what cryptocurrencies are on trading market and how they could be grouped to create a classification system for their new investment plan.To create this plan we decided to use clustering algorithm to group the cryptocurrencies and use data visualizations to share the findings with the board.
+ The client requested a report that includes what cryptocurrencies are on trading market and how they could be grouped to create a classification system for their new investment plan.To create this plan we decided to use clustering algorithm to group the cryptocurrencies and use data visualizations to share the findings with the board.
  
  This project consists of four technical analysis:
  
