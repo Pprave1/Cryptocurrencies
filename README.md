@@ -28,17 +28,32 @@
   #### ![3_PC_deliverable_2.png](Resources/Images/3_PC_deliverable_2.png)
   
   
-###  The K-means algorithm is used to  cluster the cryptocurrencies using PCA(Principal Component Analysis)data.An elbow curve used
-     is created using hvplot to find the best value for K;K=4.
+###  The K-means algorithm is used to  cluster the cryptocurrencies using PCA(Principal Component Analysis)data.
+###  An elbow curve used is created using hvplot to find the best value for K;K=4.
+ 
 
 
-#### ![elbowcurve_deliverable3.png](Resources//Images/elbowcurve_deliverable3.png)
+  #### ![elbowcurve_deliverable3.png](Resources/Images/elbowcurve_deliverable3.png)
 
 
-### Applying the Principal Component Analysis:
+###  Applying the Principal Component Analysis:
 
- ![Clustered_df3.png](Resources//Images/Clustered_df.png)
+ #### ![Clustered_df3.png](Resources//Images/Clustered_df.png)
+ 
+###  Created a 3D-Scatter with the PCA data and the clusters.
 
+ ####  ![3D_Model.png](Resources/Images/3D_Model.png)
+ 
+ 
+###  Number of Tradable Cryptocurrencies,DataFrame to plot results:
+
+ #### ![Cryptos.png](Resources/Images/Cryptos.png)
+ 
+### Create an hvplot scatter plot with x="TotalCoinsMined", y="TotalCoinSupply", and by="Class".
+
+#### ![elbowcurve_deliverable3.png](Resources/Images/elbowcurve_deliverable3.png)
+ 
+ 
 
 
   
